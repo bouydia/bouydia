@@ -15,9 +15,7 @@
       height="30"
       width="40"
   /></a>
-  <a  href="tel:+212689266430"
-    
-  />+212689266430</a>
+  <a  href="tel:+212689266430">+212689266430</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
